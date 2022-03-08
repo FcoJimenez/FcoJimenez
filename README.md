@@ -6,7 +6,7 @@
 
 Committed professional, Responsible, proactive, with an experience of more than 10 years in the world of information technology. Specialized knowledge to identify solutions, optimize processes and maximize work. With the ability to always be learning and apply knowledge in the professional field & daily life.
 
-Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3/T3) | Top 1% THM | Cybersecurity Enthusiast
+Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3/T3) | Top 500 THM | Cybersecurity Enthusiast
 
 <br>
 

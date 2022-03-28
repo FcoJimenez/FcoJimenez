@@ -20,10 +20,10 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 
 ## Connect with me:
 
-<a href="https://twitter.com/longhoJimenez" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/francisco-jimenez-alcantara/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<br>
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/francisco-jimenez-alcantara/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/l0ngh0)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://tryhackme.com/p/Longho/)
 
 
 ## Programming Languages

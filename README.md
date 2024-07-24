@@ -10,7 +10,7 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/kQd0bRb/Sin-t-tulo.jpg" alt="Sin-t-tulo" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RY0RWPK/c4c648fc52bbc6404e48f5109aaecb35.jpg" alt="c4c648fc52bbc6404e48f5109aaecb35" border="0"></a>
 - ☢️ [TryHackMe](https://tryhackme.com/p/Longho/)
 </br>
 

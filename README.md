@@ -32,7 +32,9 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=FcoJimenez&label=Profile%20views&color=0e75b6&style=flat" alt="FcoJimenez" />
-  
+
+## ⚡ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,php,css,bootstrap,cs,bash,cpp,go,py,ruby,rails,vscode&perline=8)](https://skillicons.dev)
 
 <!--
 **FcoJimenez/FcoJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

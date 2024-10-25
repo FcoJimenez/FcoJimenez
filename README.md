@@ -26,7 +26,7 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 [<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://tryhackme.com/p/W1pl4sh/)
 
 
-## Programming Languages
+## 🛠️ Programming Languages
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FcoJimenez&show_icons=true&locale=en&layout=compact" alt="FcoJimenez" /></p>
 </div>
@@ -35,6 +35,18 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 
 ## ⚡ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,php,css,bootstrap,cs,bash,cpp,go,py,ruby,rails,vscode&perline=8)](https://skillicons.dev)
+
+## 💡 Fun Fact
+I love tackling cybersecurity challenges and always strive to improve my skills. Let’s connect and explore new opportunities together!
+
+---
+
+Thank you for visiting my profile! 🚀
+
+---
+
+
+
 
 <!--
 **FcoJimenez/FcoJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

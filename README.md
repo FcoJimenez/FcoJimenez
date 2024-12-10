@@ -1,8 +1,9 @@
-### Hi there 🤘 
-
+ 
+<!--
+### Hi there 🤘
 ### I'm Francisco, I’m from 🇨🇱. 
-
-
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F72E15&width=440&lines=Hello!+My+name+is+Francisco++from+%F0%9F%87%A8%F0%9F%87%B1.;A.K.A+L0ngh0+🤘)](https://git.io/typing-svg)
 
 Committed professional, Responsible, proactive, with an experience of more than 10 years in the world of information technology. Specialized knowledge to identify solutions, optimize processes and maximize work. With the ability to always be learning and apply knowledge in the professional field & daily life.
 

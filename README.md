@@ -12,7 +12,7 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 <br>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RY0RWPK/c4c648fc52bbc6404e48f5109aaecb35.jpg" alt="c4c648fc52bbc6404e48f5109aaecb35" border="0"></a>
-- ☢️ [TryHackMe](https://tryhackme.com/p/Longho/)
+- ☢️ [TryHackMe](https://tryhackme.com/r/p/L0ngh0)
 </br>
 
 
@@ -24,7 +24,7 @@ Computer Engineer | Analyst | Programmer | Web developer | Technical Support (L3
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/francisco-jimenez-alcantara/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/l0ngh0)
-[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://tryhackme.com/p/W1pl4sh/)
+[<img src="https://miro.medium.com/max/1220/1*kZDwNIxYuMsAyTUrx1vD0Q.png" width="3.5%"/>](https://tryhackme.com/r/p/L0ngh0)
 
 
 ## 🛠️ Programming Languages
